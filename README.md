@@ -60,7 +60,6 @@ Coming soon:
 - SIEM and security monitoring
 - Git & GitHub
 
-Markdown
 
 ## 🤝 Connect With Me
 
